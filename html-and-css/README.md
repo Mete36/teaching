@@ -28,6 +28,3 @@ We will be continuing with the Codecademy tasks. Before this second session, I a
 * ["Making a Website"](http://www.codecademy.com/en/skills/make-a-website/)
 * ["HTML / CSS"](http://www.codecademy.com/en/tracks/web)
 * ["Make an Interactive Website"](http://www.codecademy.com/en/skills/make-an-interactive-website/)
-
-THIS IS A CHANGE!!!
-THIS IS A CHANGE 2 !!!
